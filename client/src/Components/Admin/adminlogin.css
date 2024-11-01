@@ -1,0 +1,40 @@
+/* .AdminLogin{ */
+  /* background-image: url("../../Assest/Adminwhite.jpg");
+  background-size: cover;
+  background-position: center;
+   background-repeat: no-repeat;
+   height: 100vh;
+   height: 100%;
+   margin: 0;
+   padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%; */
+/* } */
+.adminlogin_body {
+   background-image: url("../../Assest/Adminwhite.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 100vh;
+   /* height: 100%; */
+   margin: 0;
+   padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.adminlogin_bodyheading {
+  margin: 0;
+  padding: 0;
+    box-sizing: border-box;
+  color: rgba(30, 30, 30, 1);
+  
+  
+}
+.adminlogin_bodyheading span {
+  color: hsl(126, 25%, 45%);
+  
+}
+/* font-size: 45px;
+  font-weight: bolder; */

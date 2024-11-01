@@ -1,0 +1,101 @@
+/* Exam Coordinator Login */
+
+.examcoordinator-login-divbox{
+    border: 1px solid #56905C;
+    height: 80vh;
+    width: 100%;
+    border-radius: 10px;
+}
+.examcoordinator-login-b{
+    font-weight: bold;
+}
+.examcoordinator-login-h2{
+    color: #56905C;
+    font-weight: bold;
+}
+.examcoordinator-login-textbox{
+    height: 45px;
+    width: 35%;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.examcoordinator-login-loginbtn{
+    height: 45px;
+    width: 35%;
+    border-radius: 5px;
+    color: white;
+    background-color: #56905C;
+    border: none;
+    font-weight: 600;
+}
+.examcoordinator-login-cancelbtn{
+    height: 45px;
+    width: 35%;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.532);
+    background-color: rgba(128, 128, 128, 0.558);
+    border: none;
+    font-weight: 600;
+}
+
+/* Exam Coordinate Nav */
+
+.examcoordinate-nav-home{
+    text-decoration: none;
+    color: black;
+}
+.examcoordinate-nav-view:hover{
+    background-color: #56905C;
+}
+
+/* View Request */
+
+.view-request-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.view-request-vqbtn{
+    color: white;
+    background-color: #56905C;
+    height: 30px;
+    width: 50px;
+    border: none;
+    border-radius: 6px;
+}
+.view-request-div{
+    background-color: rgba(128, 128, 128, 0.425);
+    height: 9.5vh;
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* View Question */
+
+.view-question-icon{
+    color: #56905C;
+    font-weight: 600;
+    font-size: 30px;
+}
+.view-request-divbox{
+    border:1px solid #56905C ;
+    width: 100%;
+    min-height: 100vh;
+    border-radius: 10px;
+}
+.view-question-approvebtn{
+    background-color: #56905C;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 10%;
+}
+.view-question-rejectbtn{
+    background-color: rgba(255, 0, 0, 0.771);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 10%;
+}

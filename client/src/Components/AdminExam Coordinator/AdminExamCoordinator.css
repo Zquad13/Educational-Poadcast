@@ -1,0 +1,32 @@
+/* Exam Coordinate Login */
+
+.exam-coordinate-login-h4{
+    color: #56905C;
+}
+.exam-coordinate-login-divbox{
+    border: 1px solid #56905C;
+    height: 60vh;
+    width: 100%;
+}
+.exam-coordinate-login-img{
+    background-image: url('../../Assest//Group\ 2151.png');
+    height: 442px;
+    width: 100%;
+}
+.exam-coordinate-login-textbox{
+    height: 35px;
+    width: 100%;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+.exam-coordinate-login-label{
+    font-weight: 600;
+}
+.exam-coordinate-login-createbtn{
+    color: white;
+    background-color: #56905C;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    width: 40%;
+}

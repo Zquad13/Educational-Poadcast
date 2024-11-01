@@ -1,0 +1,40 @@
+.landingpage_links{
+    margin-right: 5%;
+    color: #000;
+}
+.landingpage_links :hover{
+    color:rgba(118, 163, 123, 1);
+}
+.listenerforgot_main{
+    background-image: url('../../Assest/Slice\ 2.png');
+    height: 100vh;
+}
+
+/* Listener Main Nav Bar  */
+.listener-mainnavbar-profileimg{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+/* Listener Report */
+
+.listener-report-divbox{
+    border: 1px solid #56905cc0;
+    height: 30vh;
+    width: 70%;
+    border-radius: 20px;
+    text-align: center;
+}
+.listener-report-correctanswer{
+    border: 1px solid #56905cc0;
+    width: 30%;
+    height: 5vh;
+    border-radius: 5px;
+}
+.listener-report-wronganswer{
+    border: 1px solid rgba(255, 0, 0, 0.573);
+    width: 30%;
+    height: 5vh;
+    border-radius: 5px;
+}

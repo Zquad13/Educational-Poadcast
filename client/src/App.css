@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.exm_report_details{
+    min-height: 10vh;
+    width: 35%;
+    /* background-color: aqua; */
+    margin: auto;
+    /* display: flex; */
+}

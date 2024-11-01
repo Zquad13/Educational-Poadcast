@@ -1,0 +1,138 @@
+.backgroundimg{
+    background-image: url('../../Assest/Group\ 2151.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 15%;
+  }
+  #inputtransparent{
+    background-color: transparent;
+    border-color: rgb(107, 103, 103);
+    color: black;
+  }
+ img .profileimg{
+ width: 2%;
+  }
+  .creatorforgot_main{
+    background-image: url('../../Assest/Slice\ 2.png');
+    height: 100vh;
+  }
+
+  /* Creater Navbar */
+
+  .creaternavbar-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+  }
+
+  .add-question-h3{
+    color: #56905C;
+  }
+.add-question-select{
+  height: 6.5vh;
+  width: 20%;
+  border-radius: 10px;
+  border: 1px solid #56905C;
+  font-weight: 500;
+}
+.add-question-label{
+  color:#56905C ;
+}
+.add-question-text{
+  border: 1px solid #56905C;
+  height: 15vh;
+  width: 95%;
+  border-radius: 10px;
+}
+.add-question-optiontextbox{
+  border: 1px solid #56905C;
+  height: 5vh;
+  width: 20%;
+  border-radius: 5px;
+}
+.add-question-option:hover{
+  background-color: #56905C;
+}
+.add-question-savebtn{
+  color: white;
+  background-color: #56905C;
+  border: none;
+  border-radius: 7px;
+  height: 5vh;
+  width: 8%;
+  font-weight: 600;
+}
+.add-question-addbtn{
+  background-color: white;
+  border-radius: 7px;
+  height: 5vh;
+  width: 8%;
+  border: 1px solid #56905C;
+  font-weight: 600;
+}
+.view-question-editbtn{
+  color: white;
+  background-color: #56905C;
+  border: none;
+  border-radius: 7px;
+  height: 5vh;
+  width: 8%;
+  font-weight: 600;
+}
+
+/* Exam Question Status */
+.exam-question-status-back{
+  background-color: #56905cc0;
+  height: 8.5vh;
+  width: 100%;
+  border-radius: 10px;
+}
+.exam-question-status-backcolor{
+  background-color: #56905c43;
+  height: 8.5vh;
+  width: 100%;
+  border-radius: 10px;
+}
+.exam-question-status-backcolors{
+  height: 8.5vh;
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* View Report */
+
+.view-question-back{
+  background-color: rgba(128, 128, 128, 0.127);
+  height: 8.5vh;
+  width: 100%;
+  border-radius: 2px;
+}
+.view-report-img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+
+/* Exam Report Detail */
+
+.exam-report-detail-icon{
+  color: #56905C;
+  font-size: 30px;
+}
+.exam-report-detail-divbox{
+  border: 1px solid #56905C;
+  height: 30vh;
+  width: 40%;
+  border-radius: 10px;
+}
+.exam-report-detail-img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.exam-report-detail-divbox2{
+  border: 1px solid #56905C;
+  height: 15vh;
+  width: 100%;
+  border-radius: 10px;
+}
